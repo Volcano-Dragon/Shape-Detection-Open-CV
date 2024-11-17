@@ -28,7 +28,7 @@ This project demonstrates real-time shape detection using Python and OpenCV. By 
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/your-username/shape-detection-open-cv.git  
+   git clone https://github.com/Volcano-Dragon/Shape-Detection-Open-CV.git
    cd shape-detection-opencv  
    ```  
 

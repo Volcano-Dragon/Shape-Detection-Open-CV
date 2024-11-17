@@ -56,3 +56,15 @@ This project demonstrates real-time shape detection using Python and OpenCV. By 
 5. Detects the largest object's shape and displays its name on the video.  
 
 ---
+
+## **Output**  
+1. Pentagon <br> <br> ![Pentagon](https://github.com/user-attachments/assets/d7c31fc7-37c2-4864-9ea2-8c3538921cb9)
+2. Square <br> <br> ![image](https://github.com/user-attachments/assets/891bfc86-960f-4289-b31d-0d0ef8a3475c)
+3. Triangle <br> <br> ![image](https://github.com/user-attachments/assets/323cbdfd-5cb6-4b65-af3e-956eb3dcd5c8)
+
+      
+   
+
+
+
+

@@ -58,9 +58,9 @@ This project demonstrates real-time shape detection using Python and OpenCV. By 
 ---
 
 ## **Output**  
-1. Pentagon <br> <br> <kbd>![Pentagon](https://github.com/user-attachments/assets/d7c31fc7-37c2-4864-9ea2-8c3538921cb9)</kbd>
-2. Rectangle <br> <br> <kbd>![image](https://github.com/user-attachments/assets/891bfc86-960f-4289-b31d-0d0ef8a3475c)</kbd>
-3. Triangle <br> <br> <kbd>![image](https://github.com/user-attachments/assets/323cbdfd-5cb6-4b65-af3e-956eb3dcd5c8)</kbd>
+1. Pentagon <br> <kbd>![Pentagon](https://github.com/user-attachments/assets/d7c31fc7-37c2-4864-9ea2-8c3538921cb9)</kbd> <br> <br>
+2. Rectangle <br> <kbd>![image](https://github.com/user-attachments/assets/891bfc86-960f-4289-b31d-0d0ef8a3475c)</kbd> <br> <br>
+3. Triangle <br> <kbd>![image](https://github.com/user-attachments/assets/323cbdfd-5cb6-4b65-af3e-956eb3dcd5c8)</kbd> 
 
       
    
